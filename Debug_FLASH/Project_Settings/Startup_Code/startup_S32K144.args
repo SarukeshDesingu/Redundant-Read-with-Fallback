@@ -1,0 +1,14 @@
+-c
+-I../SDK/platform/drivers/inc
+-I../SDK/rtos/osif
+-I../SDK/platform/drivers/src/lpuart
+-I"D:/s32ds/project/board"
+-x assembler-with-cpp
+-g3
+-mcpu=cortex-m4
+-mthumb
+-mfloat-abi=hard
+-mfpu=fpv4-sp-d16
+-specs=nano.specs
+-specs=nosys.specs
+--sysroot="D:/s32ds/S32DS/build_tools/gcc_b1620/gcc-6.3-arm32-eabi/arm-none-eabi/newlib"

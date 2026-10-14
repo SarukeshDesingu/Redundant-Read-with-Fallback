@@ -269,5 +269,5 @@ eeprom-redundant-read-crc-fallback/
 
 | | |
 |---|---|
-| Name        | `THARUN DANIEL Y` |
+| Name        | `SARUKESH D` |
 | Institution | `SAVEETHA ENGINEERING COLLEGE` |
